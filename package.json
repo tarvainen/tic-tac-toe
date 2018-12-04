@@ -1,0 +1,12 @@
+{
+  "name": "@tarvainen/tic-tac-toe",
+  "version": "0.0.1",
+  "description": "Nodejs library for managing tic-tac-toe games.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "author": "Atte Tarvainen",
+  "license": "MIT"
+}
